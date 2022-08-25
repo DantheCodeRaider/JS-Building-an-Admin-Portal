@@ -2,10 +2,10 @@
   "books": [
     {
       "id": 1,
-      "title": "The Shinobi Initiative",
+      "title": "10",
       "description": "The reality-bending adventures of a clandestine service agency in the year 2166",
       "year": 2014,
-      "quantity": "10",
+      "quantity": "The Shinobi Initiative",
       "imageURL": "/assets/shinobi-initiative.jpeg"
     },
     {
@@ -26,10 +26,10 @@
     },
     {
       "id": 4,
-      "title": "W∀RP",
+      "title": "12",
       "description": "A time-space anomaly folds matter from different points in earth's history in on itself, sending six unlikely heroes on a race against time as worlds literally collide.",
       "year": 2010,
-      "quantity": "4",
+      "quantity": "The Shinobi Initiative",
       "imageURL": "/assets/warp.jpeg"
     }
   ]
